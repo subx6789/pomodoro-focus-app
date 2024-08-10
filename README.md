@@ -22,7 +22,7 @@ A React Native application that helps you stay productive using the Pomodoro tec
 **Clone the repository:**
 
 ```bash
- git clone https://github.com/yourusername/pomodoro-focus-app.git
+ git clone https://github.com/subx6789/pomodoro-focus-app.git
 ```
 
 **Navigate to the project directory:**
