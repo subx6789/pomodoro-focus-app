@@ -56,11 +56,7 @@ A React Native application that helps you stay productive using the Pomodoro tec
 - Open the app and on the "Focus" tab and enter the task you want to focus on.
 - Use the timer controls to set your desired focus duration.
 - Start the timer and concentrate on your work.
-- After the timer ends, check your focus history in the "History" tab.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+- Check your focus history in the "History" tab after the timer ends.
 
 ## Contributing
 
