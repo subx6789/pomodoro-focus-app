@@ -17,6 +17,14 @@ A React Native application that helps you stay productive using the Pomodoro tec
 
 `Screenshots of the app's UI are provided below:`
 
+![1](https://github.com/user-attachments/assets/c40cf761-ba2c-4fc0-8c3d-ec5c6547b2df)
+![2](https://github.com/user-attachments/assets/61a0987d-8b4a-44a9-9c6a-01d869e3d627)
+![3](https://github.com/user-attachments/assets/e36de2e7-e114-44dd-9cfa-da8e80c702ce)
+![4](https://github.com/user-attachments/assets/f58e5109-3d5c-43b0-b3b0-c9c78023b023)
+![5](https://github.com/user-attachments/assets/ec5171a9-7f5d-4d35-b969-01c838891c63)
+![6](https://github.com/user-attachments/assets/1756dbe8-a66a-460e-9f0f-1524373a0fbf)
+![7](https://github.com/user-attachments/assets/ce95e643-e72a-401c-af01-7ac414b90e8f)
+
 ## Installation
 
 **Clone the repository:**
