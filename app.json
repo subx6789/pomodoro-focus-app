@@ -5,6 +5,27 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            {
+              "asset": "assets/fonts/Poppins-Regular.ttf",
+              "family": "Poppins"
+            },
+            {
+              "asset": "assets/fonts/Poppins-Bold.ttf",
+              "family": "Poppins-Bold"
+            },
+            {
+              "asset": "assets/fonts/Poppins-Light.ttf",
+              "family": "Poppins-Light"
+            }
+          ]
+        }
+      ]
+    ],
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -18,10 +39,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.subx6789.focuztimez"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0043409e-5c36-41aa-ab66-0599508a41a5"
+      }
+    },
+    "owner": "subx6789"
   }
 }
