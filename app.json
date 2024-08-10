@@ -45,11 +45,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "0043409e-5c36-41aa-ab66-0599508a41a5"
-      }
-    },
     "owner": "subx6789"
   }
 }
